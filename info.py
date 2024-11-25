@@ -2,8 +2,8 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "Images/profile.jpeg"
-about_me = "I am Tony Stark - genius, billionare, playboy, philanthropist."
+profile_picture = "Images/Profilee.webp"
+about_me = "I'm Peter Parker. I'm a regular guy by day and Spider-Man by night! "
 
 
 #CHANGE BELOW (OPTIONAL)
@@ -14,63 +14,63 @@ email_image_url = "https://logowik.com/content/uploads/images/513_email.jpg"
 #CHANGE BELOW
 my_linkedin_url = "https://www.linkedin.com/in/spongebob-squarepants-44b857281/"
 my_github_url = "https://github.com/spongebob-squarepants"
-my_email_address = "tonystark@avengers.com"
+my_email_address = "peterparker@gmail.com"
 
 
 education_data ={
-    'Degree': 'Bachelor of Science in Electrical Engineering',
-    'Institution': 'Massachusetts Institute of Technology',
-    'Location': 'Cambridge, MA',
-    'Graduation Date': 'At age 17',
+    'Degree': 'Graduate degree in biophysics and a doctorate in biochemistry',
+    'Institution': 'Empire State University',
+    'Location': 'New York, NY',
+    'Graduation Date': 'Never',
     'GPA': '4.0'
 }
 course_data = {
-    "code":["ENGG 101", "ROBO 201", "PHYS 305", "AI 400"], 
-    "names":["Intro to Engineering", "Advanced Robotics", "Applied Physics", "Artificial Intelligence"], 
-    "semester_taken":["Completed in a week", "1st", "High School", "1st"],
-    "skills":["Built my first robot at age 6", "Mastered replusor technology and energy physics", "Created the original Iron Man suit in a cave", "Able to drive a Formula 1 car"],
+    "code":["PHYS 2211", "PHYS 2212", "CHEM 1310", "BIOS 1107"], 
+    "names":["Principles of Physics 1", "Principles of Physics 2", "General Chemistry", "Biological Principles"], 
+    "semester_taken":["2nd", "3rd", "2nd", "1st"],
+    "skills":["Nothing's falling faster than my grade", "No lightbulbs went off", "My Chemical Romance?", "Yet another science..."],
     }
 experience_data = {
-    "CEO of Stark Industries": (["- Designed the Iron Man suits", "- Created sustainable arc reactor technology for energy", "- Boosted company revenue by creating defense technology"],"Images/explode.jpeg"),
-    "Inventor":(["- Created J.A.R.V.I.S., an AI assistant", "- Developed the nano-suit and space-time navigation devices", "- Worked with SHIELD to design weaponry and defense systems"],"Images/work.jpeg"),
-    "Avenger":(["- Saved the world multiple times", "- Led the Avengers in the Battle of New York and Infinity War"],"Images/avenger.jpeg")
+    "Spider-Man": (["- Helped save the world multiple times",
+                                                                          "- Joined the Avengers"],"Images/saving.jpg"),
+    "Photographer at the Daily Bugle":(["- Took pictures of Spiderman that no one else could ",
+                                                           "- Skilled in using cameras and understanding angles and lighting"],"Images/photographer.webp"),
+    "Scientist at Horizon Labs":(["- Analyzed complex problems and came up with creative solutions"],"Images/scientist.webp")
+
 }
 
 projects_data = {
-    "Iron Man Suit": "Created the famous Iron Man suit in a cave and built upgraded new models with different skills since",
-    "Time Travel": "Figured out how to acquire the Infinity Stones from different points in time by using the quantum realm"
+    "Web-Shooters": "Created wrist devices that shoot web fluid.",
 }
 
 programming_data = {
-    "Genius ": 99,
-    "Billionaire ": 100,
-    "Philanthropy ": 50
+    "Superhuman Strength": 60,
+    "Spider-Sense": 90,
+    "Adhesion": 40,
 }
 
 #CHANGE BELOW (OPTIONAL)
 programming_icons = {
-    "Genius ": "🧠",
-    "Billionaire ": "💰",
-    "Philanthropy ": "❤️"
+    "Superhuman Strength": "💪🏻",
+    "Spider-Sense": "🕸️",
+    "Adhesion": "🩹",
 }
-spoken_icons = {"French ": "🇫🇷",
-    "English ": "🇬🇧",
-    "Japanese ":"🇯🇵",
-    "Russian ":"🇷🇺"      
+spoken_icons = {"French": "🇫🇷",
+    "English": "🇬🇧",
+    "Spanish":"🇪🇸"
 }
 
 #CHANGE BELOW
 spoken_data = {
-    "English ": " Fluent",
-    "French ": " Fluent",
-    "Russian ": " Fluent",
-    "Japanese ": " Fluent"
+    "English": "Fluent",
+    "French": "Conversational",
+    "Spanish": "Conversational",
 }
 leadership_data = {
-    "Leader of the Avengers": (["- Planned missions to protect Earth", "- United a team with diverse abilities to work together"],"Images/suit.jpeg"),
-    "CEO of Stark Industries": (["- Helped with US defense strategies and futuristic technology designs"],"Images/hand.jpeg")
+    "Leader of the Spider Army": (["- Led a group of Spider-People from across the multiverse to stop the Inheritors"],"Images/multiverse.webp"),
+
 }
 activity_data={
-    "Maria Stark Foundation": ["- Created to honor my mother", 
-            "- Donated profits from Stark Industries to support the foundation"]
+    "The Parker Foundation": ["- Improved healthcare in impoverished communities", 
+            "- Funded research for curing diseases"]
 }
