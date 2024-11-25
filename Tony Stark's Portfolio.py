@@ -36,7 +36,7 @@ def education_section(education_data, course_data):
     st.dataframe(coursework, column_config={
         "code":"Course Code",
         "names":"Course Names",
-        "semester_takem":"Semester Taken",
+        "semester_taken":"Semester Taken",
         "skills":"What I learned"},
         hide_index=True,
         )
