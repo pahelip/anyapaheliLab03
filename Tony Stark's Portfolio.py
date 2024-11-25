@@ -69,7 +69,7 @@ project_section(info.projects_data)
 #Skills
 def skills_section(programming_data, spoken_data):
     st.header("Skills")
-    st.subheader("Programming Languages")
+    st.subheader("Skills")
     for skill, percentage in programming_data.items():
         st.write(f"{skill}{info.programming_icons.get(skill, '')}")
         st.progress(percentage)
