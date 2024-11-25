@@ -27,8 +27,8 @@ education_data ={
 course_data = {
     "code":["ENGG 101", "ROBO 201", "PHYS 305", "AI 400"], 
     "names":["Intro to Engineering", "Advanced Robotics", "Applied Physics", "Artificial Intelligence"], 
-    "semester_taken":["Completed in a week", "1st", "High School", "1dt"],
-    "skills":["Built my first robot at age 6", "Mastered replusor technology and energy physics", "Created the original Iron Man suit in a cave", "Able to drive a Formula 1"],
+    "semester_taken":["Completed in a week", "1st", "High School", "1st"],
+    "skills":["Built my first robot at age 6", "Mastered replusor technology and energy physics", "Created the original Iron Man suit in a cave", "Able to drive a Formula 1 car"],
     }
 experience_data = {
     "CEO of Stark Industries": (["- Designed the Iron Man suits", "- Created sustainable arc reactor technology for energy", "- Boosted company revenue by creating defense technology"],"Images/explode.jpeg"),
